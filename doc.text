@@ -1,0 +1,5 @@
+To Get Popular movies=https://api.themoviedb.org/3/movie/popular?&language=en-US&api_key=f34b8f562132c78871a54a5e5d127e16
+To search specific movei=https://api.themoviedb.org/3/search/multi?&language=en-US&query=tarzan&api_key=f34b8f562132c78871a54a5e5d127e16
+To get cast=https://api.themoviedb.org/3/movie/565770/credits?language=en-US&api_key=f34b8f562132c78871a54a5e5d127e16
+To get info=https://api.themoviedb.org/3/movie/565770?language=en-US&api_key=f34b8f562132c78871a54a5e5d127e16
+To get recomendaded Movei=https://api.themoviedb.org/3/movie/565770/recommendations?&api_key=f34b8f562132c78871a54a5e5d127e16
